@@ -3,14 +3,17 @@
 <!--
 **Igoratake/Igoratake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am an oceanographer, working in the environmental consultancy private sector and MSc candidate in Environmental Sciences at the University of São Paulo. My aim is to use open source tools in order to bring simple solutions to complex problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+- Português/Potuguese (Nativo/Native)
+- English (TOEFL 109)
+- Español/Spanish (Intermediario/Intermediate)
+
+### Degree
+
+- MSc Candidate in the Environmental Sciences Program at the Institute of Energy and Environment of the University of São Paulo (IEE-USP). 2019-2021
+- BSc in Oceanography. University of São Paulo . 2010-2015
+- Exchange Student in BSC Oceanogaphy at the University of Southampton. 2013-2014
+- Mechanical Technician. ETEC Basilides de Godoy. 2008-2009
