@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Igoratake/Igoratake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am an oceanographer, working in the environmental consultancy private sector and MSc candidate in Environmental Sciences at the University of São Paulo. My aim is to use open source tools in order to bring simple solutions to complex problems.
 
 ### Languages
