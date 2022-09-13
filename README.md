@@ -14,7 +14,7 @@ I am an oceanographer, working in the environmental consultancy private sector a
 
 ### Degree
 
-- MSc Candidate in the Environmental Sciences Program at the Institute of Energy and Environment of the University of São Paulo (IEE-USP). 2019-2021
+- MSc in Environmental Sciences at the Institute of Energy and Environment of the University of São Paulo (IEE-USP). 2019-2022
 - BSc in Oceanography. University of São Paulo . 2010-2015
 - Exchange Student in BSC Oceanogaphy at the University of Southampton. 2013-2014
 - Mechanical Technician. ETEC Basilides de Godoy. 2008-2009
